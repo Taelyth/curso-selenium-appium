@@ -27,7 +27,7 @@ implementation group: 'io.appium', name: 'java-client', version: '7.5.1'
 
 `Calc.java` Código simples de Appium com um teste de soma na calculadora.
 
-`BuscaSeleniumPuro` Código simples de Selenium, com o teste de busca no site da [Iterasys][Iterasys].
+`BuscaSeleniumPuro.java` Código simples de Selenium, com o teste de busca no site da [Iterasys][Iterasys].
 
 ---
 
